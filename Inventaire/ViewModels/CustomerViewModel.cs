@@ -11,7 +11,7 @@ namespace BillingManagement.UI.ViewModels
 
         private ObservableCollection<Customer> customers;
         private Customer selectedCustomer;
-
+        //tit mod
         public ObservableCollection<Customer> Customers
         {
             get => customers;
